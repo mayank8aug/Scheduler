@@ -1,0 +1,29 @@
+.clinic {
+    flex-basis: 35%;
+    color: #fff;
+}
+
+.welcome {
+    font-family: serif;
+    font-size: 16px;
+    letter-spacing: 4px;
+}
+
+.clinic-name {
+    font-weight: 700;
+    font-size: 60px;
+    margin: 10px 0;
+}
+
+.clinic-desc {
+    font-size: 12px;
+}
+
+@media screen and (max-width: 767px) {
+    .clinic {
+        margin-top: 230px;
+        margin-bottom: 20px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}

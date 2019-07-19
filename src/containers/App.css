@@ -1,0 +1,16 @@
+.display-flex {
+    display: flex;
+}
+
+.flex-80 {
+    flex-basis: 80%;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.link-text {
+    color: #18afaf;
+    text-decoration: underline;
+}
